@@ -46,3 +46,8 @@ If your skill only makes sense for a specific workflow, it's a marketplace candi
 ---
 
 > **Personal fork note:** I'm using this primarily for learning and local experimentation. I'm not planning to open PRs upstream, so I've relaxed the issue-first rule for my own branches.
+>
+> **My local experiments to track:**
+> - Testing custom skill implementations in `memory/`
+> - Exploring alternative LLM backends (Ollama, local models)
+> - Notes on what breaks when swapping out the default model
