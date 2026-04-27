@@ -51,3 +51,4 @@ If your skill only makes sense for a specific workflow, it's a marketplace candi
 > - Testing custom skill implementations in `memory/`
 > - Exploring alternative LLM backends (Ollama, local models)
 > - Notes on what breaks when swapping out the default model
+> - Experimenting with a lightweight logging wrapper to trace skill execution order during debugging
